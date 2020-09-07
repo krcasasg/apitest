@@ -1,0 +1,15 @@
+{
+    "name": "apitest/apitest",
+    "description": "plugin de conexion",
+    "type": "project",
+    "require": {
+        "codeswholesale/sdk": "2.1"
+    },
+    "authors": [
+        {
+            "name": "Raul Casas",
+            "email": "krcasasg@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
